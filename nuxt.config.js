@@ -35,6 +35,10 @@ export default {
     '@nuxtjs/axios'
   ],
 
+  styleResoureces: {
+    scss: []
+  },
+
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 

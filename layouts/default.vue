@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <app-layout>
-      <Nuxt />
-    </app-layout>
-  </div>
+  <app-layout>
+    <nuxt />
+  </app-layout>
 </template>
 
 <script>

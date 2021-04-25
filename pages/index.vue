@@ -1,11 +1,16 @@
 <template>
-  <div class="container">123456</div>
+  <div class="container">23232</div>
 </template>
 
 <script>
 export default {
-  name: 'Index'
+  name: 'Index',
+  layout: 'default'
 }
 </script>
 
-<style></style>
+<style>
+.container {
+  margin-top: 80px;
+}
+</style>
